@@ -1,1 +1,13 @@
-You log goes in this  file.
+Start: Mon, 13 Apr 2015 10:11:16 -0800
+End: Mon, 13 Apr 2015 11:35:41 -0800
+Tasks: watched the lecture videos and did some reading on javascript
+
+Start: Tue, 14 Apr 2015 14:19:26 -0800
+End: Tue, 14 Apr 2015 15:42:23 -0800
+Tasks: worked on variables.js and half of objects.js
+
+
+Start: Mon, 20 Apr 2015 15:25:11 -0800
+End: Mon, 20 Apr 2015 17:34:19 -0800
+Tasks: worked on the rest of objects.js and finished functions.js
+
